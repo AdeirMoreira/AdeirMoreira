@@ -14,7 +14,7 @@
   <img align="center" alt="adeir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-<div style="display: inline_block, margin-top:20px" align="center" >
+<div style="display: inline_block" align="center" ><br>
  <a href="https://www.linkedin.com/in/adeir-moreira-5492431b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:adeir.maia@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  	<a href="https://www.instagram.com/adeirmaia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
