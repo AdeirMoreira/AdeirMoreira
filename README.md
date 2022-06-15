@@ -1,5 +1,10 @@
 # Olá, eu sou Adeir Moreira, bem-vindo ao meu repositório 👋🤝
 
+###
+<h4 align="left">Sou um desenvolvedor front-end em formação atualmente engajado no bootcamp Full-stack da Labenu, no qual aprendi criar sites e aplicações com as tecnologias REACT.JS, JAVASCRIPT,TYPESCRIPT, HTML, CSS. Além de desenvolver minhas soft skills em trabalhos em grupo aplicando ferramentas ágeis como o SCRUM e o KABAM.</h4>
+
+###
+
 <div align="center">
   <a href="https://github.com/AdeirMoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdeirMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
