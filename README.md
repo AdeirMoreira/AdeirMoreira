@@ -1,7 +1,7 @@
 # Olá, eu sou Adeir Moreira, bem-vindo ao meu repositório 👋🤝
 
 ###
-<h4 align="left">Sou um desenvolvedor front-end em formação atualmente engajado no bootcamp Full-stack da Labenu, no qual aprendi criar sites e aplicações com as tecnologias REACT.JS, JAVASCRIPT,TYPESCRIPT, HTML, CSS. Além de desenvolver minhas soft skills em trabalhos em grupo aplicando ferramentas ágeis como o SCRUM e o KABAM.</h4>
+<h4 align="left">Sou um Desenvolvedor Web Full- Stack em formação no bootcamp da Labenu, no qual aprendi criar sites e aplicações com as tecnologias REACT.JS, JAVASCRIPT,TYPESCRIPT, HTML, CSS. Além de desenvolver minhas soft skills em trabalhos em grupo aplicando ferramentas ágeis como o SCRUM e o KABAM.</h4>
 
 ###
 
