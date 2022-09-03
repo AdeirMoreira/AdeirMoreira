@@ -1,7 +1,8 @@
 # Olá, eu sou Adeir Moreira, bem-vindo ao meu repositório 👋🤝
 
-### Sou desenvolvedor Full-Stack formado pelo Bootcamp da Labenu.  Ao construir meu primeiro site, tive a certeza de que havia encontrado minha vocação e que queria fazer aquilo para o resto da vida. No módulo front-end aprendendi a criar sites e aplicações com as tecnologias REACT.JS, JAVASCRIPT, TYPESCRIPT, HTML, CSS. No módulo de back-end construí APIs Rest com as tecnologias TYPESCRIPT, NODE.JS, EXPRESS.JS, MySQL e JEST. Além de desenvolver minhas soft skills em trabalhos em grupo, que podem ser conferidos na seção projetos, aplicando ferramentas ágeis como o SCRUM e o KABAM. 
+### Desenvolvedor Full Stack em transição de carreira formado no Bootcamp Labenu. Estudo programação a 9 meses, tenho experiência em projetos com React, NodeJS, NestJS, Express, API Rest MySQL, PostgresSQl e Docker entre outras tecnologias. Além de experiência em trabalhos em grupo aplicando ferramentas ágeis como SCRUN e KANBAN.
 
+<br>
 <div align="center">
   <a href="https://github.com/AdeirMoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdeirMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
