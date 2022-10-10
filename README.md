@@ -1,6 +1,6 @@
 # Olá, eu sou Adeir Moreira, bem-vindo ao meu repositório 👋🤝
 
-### Desenvolvedor Full Stack em transição de carreira formado no Bootcamp Labenu. Estudo programação a 9 meses, tenho experiência em projetos com React, NodeJS, NestJS, Express, API Rest MySQL, PostgresSQl e Docker entre outras tecnologias. Além de experiência em trabalhos em grupo aplicando ferramentas ágeis como SCRUN e KANBAN.
+### Desenvolvedor Full Stack em transição de carreira formado no Bootcamp Labenu. Estudo programação desde 2021, tenho experiência em projetos com React, NodeJS, NestJS, Express, API Rest, MySQL, Postgres e Docker entre outras tecnologias. Além de experiência em trabalhos em grupo aplicando ferramentas ágeis como SCRUN e KANBAN.
 
 <br>
 <div align="center">
@@ -10,14 +10,29 @@
   </a>
 </div>
 
-# Tecnologias
+# Tecnologias 🥇
+ - ### Front-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,nestjs,express,jest,mysql,postgres,docker,git,github,heroku,linux,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,styledcomponents" />
+  </a>
+</p>
+
+ - ### Back-end
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest,mysql,postgres,mongodb,prisma" />
+  </a>
+</p>
+
+ - ### Outros
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,heroku,linux,vscode,bash" />
   </a>
 </p>
   
-# Contate-me
+# Contate-me 📲
   <div align="center">
 <div style="display: inline_block" align="center" ><br>
  <a href="https://www.linkedin.com/in/adeir-moreira-5492431b9/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
