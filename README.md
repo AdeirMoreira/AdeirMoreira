@@ -1,6 +1,6 @@
 # Olá, eu sou Adeir Moreira, bem-vindo ao meu repositório 👋🤝
 
-### Dev Full Stack formado no Bootcamp Labenu.Estudo e trabalho desde 2021. Tenhoexperiência com React, Vue, Node, Nest, APIRest, MySQL, SQL Server e Docker entre outrastecnologias. Além de experiência comferramentas ágeis como SCRUN e kANBAN.Atualmente atuo como Desenvolvedor Full-Stack Junior.
+### Dev Full Stack formado no Bootcamp Labenu. Estudo e trabalho desde 2021. Tenho experiência com React, Vue, Node, Nest, APIRest, MySQL, SQL Server e Docker entre outrastecnologias. Além de experiência comferramentas ágeis como SCRUN e kANBAN.Atualmente atuo como Desenvolvedor Full-Stack Junior.
 
 <br>
 <div align="center">
