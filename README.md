@@ -1,6 +1,6 @@
 # Olá, eu sou Adeir Moreira, bem-vindo ao meu repositório 👋🤝
 
-### Dev Full Stack formado no Bootcamp Labenu. Estudo e trabalho desde 2021. Tenho experiência com React, Vue, Node, Nest, APIRest, MySQL, SQL Server e Docker entre outrastecnologias. Além de experiência comferramentas ágeis como SCRUN e kANBAN.Atualmente atuo como Desenvolvedor Full-Stack Junior.
+### Dev Full Stack formado no Bootcamp Labenu. Estudo e trabalho desde 2021. Tenho experiência com React, Vue, Node, Nest, APIRest, MySQL, SQL Server e Docker entre outras tecnologias. Além de experiência com ferramentas ágeis como SCRUN e kANBAN. Atualmente atuo como Desenvolvedor Full-Stack Junior.
 
 <br>
 <div align="center">
@@ -14,7 +14,7 @@
  - ### Front-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,bootstrap,tailwind,styledcomponents" />
   </a>
 </p>
 
